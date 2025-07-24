@@ -1,7 +1,4 @@
-🟪 README FINAL COMPLETO: estructura + tecnologías + deploy + autora
-markdown
-Copiar
-Editar
+
 # 🟪 TicTacToe React Final
 
 🎮 Juego interactivo de Tic Tac Toe (Gato) desarrollado con React + Vite + TypeScript + Tailwind CSS.  
